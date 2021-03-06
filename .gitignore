@@ -1,0 +1,6 @@
+.vscode/
+.venv/
+project/**/__pycache__/
+project/**/migrations/
+project/project/.env
+project/db.sqlite3
